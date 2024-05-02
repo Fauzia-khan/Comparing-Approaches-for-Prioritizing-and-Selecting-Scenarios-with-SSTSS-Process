@@ -1,0 +1,13 @@
+https://ieeexplore.ieee.org/search/searchresult.jsp?action=search&matchBoolean=true&queryText=(%22Document%20Title%22:Test%20scenario%20select*)%20OR%20(%22Document%20Title%22:Test%20reduction)%20OR%20(%22Document%20Title%22:%20Test%20scenario%20prioritize*)%20AND%20(%22Document%20Title%22:Autonomous%20Driving%20Systems%20)%20OR%20(%22Document%20Title%22:%20Self-driving%20car*)&highlight=true&returnType=SEARCH&matchPubs=true&ranges=2000_2024_Year&returnFacets=ALL&refinements=ContentType:Conferences&refinements=ContentType:Journals&rowsPerPage=100&pageNumber=1
+
+acm
+
+https://dl.acm.org/action/doSearch?fillQuickSearch=false&target=advanced&expand=dl&AfterMonth=1&AfterYear=2020&BeforeMonth=5&BeforeYear=2024&AllField=Title%3A%28Test+scenario+select*%29+AND+Title%3A%28Test+reduction%29+AND+Title%3A%28Test+scenario+Prioritize*%29+AND+Title%3A%28Autonomous+Driving+Systems%29+AND+Title%3A%28Self-driving+car*%29&startPage=2&pageSize=50
+
+springer:
+https://link.springer.com/search?new-search=true&query=Test+scenario+select*+OR+Test+reduction+OR+Test+scenario+Prioritize*+AND+Autonomous+Driving+Systems++&content-type=research&content-type=conference+paper&date=custom&dateFrom=2000&dateTo=2024&language=En&facet-discipline=%22Computer+Science%22&sortBy=relevance
+
+date: 22/04 time 11:oo am
+
+Science Direct:
+https://www.sciencedirect.com/search?qs=%5Btest%20scenario%20select%5D%20AND%20%5Btest%20reduction%5D%20AND%20%5B%20test%20scenario%20prioritize%5D%20AND%20%5B%20autonomous%20driving%20systems%5D%20AND%20%5Bself-driving%20car%5D&years=2024%2C2023%2C2022%2C2021%2C2020&articleTypes=FLA%2CABS&subjectAreas=1700%2C2200&show=100
