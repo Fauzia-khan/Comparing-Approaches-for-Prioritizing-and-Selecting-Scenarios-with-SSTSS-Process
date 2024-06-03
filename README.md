@@ -8,3 +8,5 @@ The "Excel sheet - Results of Selection Procedure Steps.xlsx" contains results f
 
 The "search query.txt" file contains the link for a search query entered into each online repository. 
 
+The "comparison table|" show the comparison of SSTSS process with selected approaches.
+
